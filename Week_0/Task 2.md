@@ -201,6 +201,61 @@ $ ngspice
   ✅ <b>NGSPICE Successfully Installed</b>
 </div>
 
+### 5. Magic (VLSI Layout Tool)
+
+<details>
+<summary><b>Purpose:</b> Magic VLSI is an open-source VLSI layout tool widely used for IC design, design rule checking (DRC), and visualization. It allows designers to create, edit, and verify integrated circuit layouts efficiently.</summary>
+
+</details>
+
+
+---
+
+## ✅ **Magic VLSI Installation**
+
+downloading the tarball from https://sourceforge.net/projects/ngspice/files/ to a local directory,
+
+```bash
+# Install required dependencies
+$ sudo apt-get install m4
+$ sudo apt-get install tcsh
+$ sudo apt-get install csh
+$ sudo apt-get install libx11-dev
+$ sudo apt-get install tcl-dev tk-dev
+$ sudo apt-get install libcairo2-dev
+$ sudo apt-get install mesa-common-dev libglu1-mesa-dev
+$ sudo apt-get install libncurses-dev
+
+# Clone Magic repository
+$ git clone https://github.com/RTimothyEdwards/magic
+$ cd magic
+
+# Configure build
+$ ./configure
+
+# Build Magic
+$ make
+
+# Install system-wide
+$ sudo make install
+```
+## 📷 **Installation Verification**
+
+```bash
+# Run Magic after installation
+$ magic 
+```
+
+<p align="center">
+  <img src="images/magic.png" 
+       alt="Magic VLSI Installed" width="1200"/>
+</p>
+
+<div align="center">
+  ✅ <b>Magic VLSI Successfully Installed</b>
+</div>
+
+
 
 
 
