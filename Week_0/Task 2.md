@@ -157,6 +157,50 @@ $ gtkwave
   ✅ <b>GTKWave Successfully Installed</b>
 </div>
 
+### 🧠 **4. NGSpice – Circuit Simulator**
+
+<details>
+<summary><b>Purpose:</b> SNGSpice is an open-source circuit simulator based on SPICE that models and analyzes analog, digital, and mixed-signal circuits. It is widely used for testing circuit behavior, verifying designs, and studying waveforms before hardware implementation.</summary>
+
+</details>
+
+---
+
+## ✅ **NGSpice Installation**
+
+```bash
+# Download and unpack NGSpice tarball (assuming ngspice-37.tar.gz)
+$ tar -zxvf ngspice-37.tar.gz
+$ cd ngspice-37
+
+# Create build directory
+$ mkdir release
+$ cd release
+
+# Configure build with X11 support and readline
+$ ../configure --with-x --with-readline=yes --disable-debug
+
+# Build NGSpice
+$ make
+
+# Install NGSpice
+$ sudo make install
+```
+## 📷 **Installation Verification**
+
+```bash
+# Run NGPICE after installation
+$ gtkwave
+```
+<p align="center">
+  <img src="" 
+       alt="NGSPICE Installed" width="600"/>
+</p>
+
+<div align="center">
+  ✅ <b>NGSPICE Successfully Installed</b>
+</div>
+
 
 
 
