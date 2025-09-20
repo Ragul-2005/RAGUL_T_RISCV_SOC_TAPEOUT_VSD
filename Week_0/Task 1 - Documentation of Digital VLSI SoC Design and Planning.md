@@ -83,3 +83,7 @@ It explains the design methodology, verification steps, and the importance of mo
 
 ✍️ Prepared by: <br>
 ***RAGUL T — RISC-V SoC Tapeout (VSD)***
+
+<div align="center">
+🌟 **End of Week 0 — Successfully Completed!**
+</div>
