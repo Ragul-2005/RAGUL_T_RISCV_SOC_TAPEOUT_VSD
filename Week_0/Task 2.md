@@ -247,13 +247,14 @@ $ magic
 ```
 
 <p align="center">
-  <img src="images/magic.png" 
+  <img src="" 
        alt="Magic VLSI Installed" width="1200"/>
 </p>
 
 <div align="center">
   ✅ <b>Magic VLSI Successfully Installed</b>
 </div>
+
 
 
 
