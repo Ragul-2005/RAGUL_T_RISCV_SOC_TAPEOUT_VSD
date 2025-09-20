@@ -322,7 +322,7 @@ $ python3 -m pip --version
 $ make --version
 ```
 <p align="center">
-  <img src="" 
+  <img src="https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD/blob/main/Week_0/Images/Tools%20version.png?raw=true" 
        alt="OpenLANE Installed" width="600"/>
 </p>
 
