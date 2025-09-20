@@ -167,7 +167,7 @@ $ gtkwave
 ---
 
 ## ✅ **NGSpice Installation**
-
+<b>Download the tarball from https://sourceforge.net/projects/ngspice/files/ to a local directory</b>
 ```bash
 # Download and unpack NGSpice tarball (assuming ngspice-37.tar.gz)
 $ tar -zxvf ngspice-37.tar.gz
@@ -213,7 +213,7 @@ $ ngspice
 
 ## ✅ **Magic VLSI Installation**
 
-downloading the tarball from https://sourceforge.net/projects/ngspice/files/ to a local directory,
+
 
 ```bash
 # Install required dependencies
