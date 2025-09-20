@@ -122,7 +122,7 @@ $ iverilog
 </p>
 
 <div align="center">
-  ✅  <b></b>IVerilog Successfully Installed</div>b>
+  ✅  <b>IVerilog Successfully Installed</b>
     
 </div>
 
@@ -149,7 +149,7 @@ $ sudo apt install gtkwave
 $ gtkwave
 ```
 <p align="center">
-  <img src="" 
+  <img src="https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD/blob/main/Week_0/Images/gtkwave.png?raw=true" 
        alt="GTKWave Installed" width="600"/>
 </p>
 
