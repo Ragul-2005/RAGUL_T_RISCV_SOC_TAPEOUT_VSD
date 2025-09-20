@@ -83,7 +83,7 @@ $ yosys
 $ license
 
 <p align="center">
-  <img src="Week_0/Images/yosys.png
+  <img src="https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD/blob/main/Week_0/Images/yosys.png?raw=true
        alt="Yosys Installed" width="600"/>
 </p>
 
