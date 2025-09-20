@@ -1,7 +1,8 @@
 # 🚀 RISC-V SoC Tapeout Program Progress Repository  
 <p align="center">
-  <img src="https://drive.google.com/file/d/15Oo48izviB9N1zN7Bc-P4rYw4eCCy0-n/view?usp=sharing" alt="RISC-V SoC Tapeout" width="600" style="border-radius:8px;"/>
+  <img src="https://drive.google.com/uc?export=view&id=15Oo48izviB9N1zN7Bc-P4rYw4eCCy0-n" alt="RISC-V SoC Tapeout" width="600" style="border-radius:8px;"/>
 </p>
+
 
 
 
