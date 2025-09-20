@@ -59,7 +59,7 @@ It explains the design methodology, verification steps, and the importance of mo
 
 ---
 
-## Final Take
+
 
 ## ✅ Key Takeaways  
 - **End-to-End Flow:** Specs → RTL → Synthesis → SoC Integration → Verification → Tapeout.  
