@@ -37,3 +37,39 @@ Click a tool name to jump to installation instructions 👇
 <summary><b>Purpose:</b> CYosys is an open-source logic synthesis tool that converts HDL (like Verilog) into gate-level netlists for FPGA or ASIC implementation. It also performs optimization, analysis, and verification of digital designs.</summary>
 
 </details>
+
+## ✅ **Yosys Installation**
+
+```bash
+# Day 0 - Tools Installation
+## Yosys
+
+# Clone the Yosys repository from GitHub
+$ git clone https://github.com/YosysHQ/yosys.git
+
+# Change directory to the cloned yosys folder
+$ cd yosys
+
+# Install 'make', a build automation tool
+$ sudo apt install make
+
+# Install all dependencies required to build Yosys
+$ sudo apt-get install build-essential clang bison flex \
+    libreadline-dev gawk tcl-dev libffi-dev git \
+    graphviz xdot pkg-config python3 libboost-system-dev \
+    libboost-python-dev libboost-filesystem-dev zlib1g-dev
+
+# Configure Yosys to use GCC for compilation
+$ make config-gcc
+
+# Initialize Git submodules (required for abc)
+$ git submodule update --init --recursive
+
+# Compile the Yosys source code into executable binaries
+$ make
+
+# Install the compiled Yosys binaries system-wide
+$ sudo make install
+
+---
+
