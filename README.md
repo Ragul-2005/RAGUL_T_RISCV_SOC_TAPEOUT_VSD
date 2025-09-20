@@ -69,7 +69,7 @@ It provides:
 
 ## 🙏 Acknowledgments  
 
-Special thanks to **[Kunal Ghosh](https://github.com/kunalg123)** and the **V[SD Team](https://www.vlsisystemdesign.com/** for creating this program and for their continuous effort to promote **open-source chip design education** globally 🌍.  
+Special thanks to **[Kunal Ghosh](https://github.com/kunalg123)** and the **[VSD Team](https://www.vlsisystemdesign.com/)** for creating this program and for their continuous effort to promote **open-source chip design education** globally 🌍.  
 
 ---
 
