@@ -34,7 +34,7 @@ Click a tool name to jump to installation instructions 👇
 ### 1. Yosys (Synthesis Tool)
 
 <details>
-<summary><b>Purpose:</b> CYosys is an open-source logic synthesis tool that converts HDL (like Verilog) into gate-level netlists for FPGA or ASIC implementation. It also performs optimization, analysis, and verification of digital designs.</summary>
+<summary><b>Purpose:</b> Yosys is an open-source logic synthesis tool that converts HDL (like Verilog) into gate-level netlists for FPGA or ASIC implementation. It also performs optimization, analysis, and verification of digital designs.</summary>
 
 </details>
 
@@ -72,4 +72,25 @@ $ make
 $ sudo make install
 
 ---
+
+## 📷 **Installation Verification**
+
+```bash
+# Run Yosys after installation
+$ yosys
+
+# Verify license
+$ license
+
+<p align="center">
+  <img src="Week_0/Images/yosys.png
+       alt="Yosys Installed" width="600"/>
+</p>
+
+<div align="center">
+
+✅ **Yosys Successfully Installed**
+
+</div>
+```
 
