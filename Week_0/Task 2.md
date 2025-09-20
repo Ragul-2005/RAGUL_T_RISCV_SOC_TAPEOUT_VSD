@@ -88,7 +88,7 @@ $ license
 </p>
 
 <div align="center">
-  ✅ **Yosys Successfully Installed**
+  ✅  Yosys Successfully Installed
 </div>
 
 ### 2. Iverilog
@@ -122,7 +122,8 @@ $ iverilog
 </p>
 
 <div align="center">
-  ✅ **IVerilog Successfully Installed**
+  ✅  IVerilog Successfully Installed
+    
 </div>
 
 
