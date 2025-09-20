@@ -1,4 +1,9 @@
 # 🚀 RISC-V SoC Tapeout Program Progress Repository  
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1EAre_1MPlud2slWvOJ1FpV3sXpxKVIdS" alt="RISC-V SoC Tapeout" width="600" style="border-radius:8px;"/>
+</p>
+
+
 
 Welcome to my documentation repository for the **RISC-V SoC Tapeout Program**, where I track and document my **weekly progress** on tasks assigned as part of the program.  
 This repo serves as a **complete logbook** of my journey, learnings, and outcomes while building towards a **silicon tapeout using open-source EDA tools**.  
