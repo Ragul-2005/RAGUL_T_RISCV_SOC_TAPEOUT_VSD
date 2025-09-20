@@ -70,8 +70,8 @@ $ make
 
 # Install the compiled Yosys binaries system-wide
 $ sudo make install
-
 '''
+
 
 ## 📷 **Installation Verification**
 
