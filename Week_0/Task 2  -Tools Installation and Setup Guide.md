@@ -309,8 +309,8 @@ $ make --version
 
 <div align="center">
 
-**📂 Repository:** [RAGUL_T_RISCV_SOC_TAPEOUT_VSD](https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD.git)
-**👨‍💻 Author:** [RAGUL T](https://github.com/Ragul-2005)  
+**📂 Repository:** [RAGUL_T_RISCV_SOC_TAPEOUT_VSD](https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD.git)<br>
+**👨‍💻 Author:** [RAGUL T](https://github.com/Ragul-2005) <br>
 **📚 Program:** VLSI System Design (VSD)
 
 </div>
