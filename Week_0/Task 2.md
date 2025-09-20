@@ -21,7 +21,7 @@ Make sure your system is ready for synthesis, simulation, and layout by meeting 
 Click a tool name to jump to installation instructions 👇
 
 - [Yosys](#1-yosys-synthesis-tool)  
-- [IVerilog (iverilog)](#2-i-verilog-simulator)  
+- [Iverilog](#2-iverilog) 
 - [GTKWave](#3-gtkwave-waveform-viewer)  
 - [NGSpice](#4-ngspice-circuit-simulator)  
 - [Magic](#5-magic-vlsi-layout-tool)  
@@ -91,7 +91,7 @@ $ license
   ✅ **Yosys Successfully Installed**
 </div>
 
-### 2. IVerilog (Simulator)
+### 2. Iverilog
 
 <details>
 <summary><b>Purpose:</b> Iverilog is an open-source Verilog simulation and compilation tool. It allows you to compile Verilog code into executable simulations and run functional verification of your designs before synthesis.</summary>
