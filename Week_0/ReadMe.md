@@ -19,7 +19,7 @@ It covers two major tasks:
   - RTL-to-GDSII Flow (Synthesis → Netlist → Floorplanning → Placement → Routing)  
   - Physical Verification (DRC & LVS)  
   - SoC Applications in real-world scenarios  
-- 📄 Document: [Task1-Digital VLSI SoC Design & Planning Documentation](./Week_0/Task 1 - Documentation of Digital VLSI SoC Design and Planning.md)  
+- 📄 Document: [Task 1 - Documentation of Digital VLSI SoC Design and Planning](./Task%201%20-%20Documentation%20of%20Digital%20VLSI%20SoC%20Design%20and%20Planning.md)
 
 ---
 
@@ -34,7 +34,7 @@ It covers two major tasks:
   - 🎨 **Magic VLSI** – Layout design & analysis  
   - 🏗️ **OpenLANE** – Complete RTL-to-GDSII flow for ASIC design  
   - 🛠️ Verified system essentials: Git, Docker, Python3, pip, Make  
-- 📄 Document: [Task2-Tool Setup & Environment Installation Guide](./Week_0/Task 2 - Tools Installation and Setup Guide.md)  
+- 📄 Document: [Task 2 - Tools Installation and Setup Guide](./Task%202%20-%20Tools%20Installation%20and%20Setup%20Guide.md)
 
 ---
 
@@ -45,4 +45,8 @@ The setup is now complete, providing a fully functional environment ready for ad
 
 ✍️ *Prepared by:<br>
 RAGUL T — RISC-V SoC Tapeout (VSD)*
+
+<div align="center">
+🌟 **End of Week 0 — Successfully Completed!** 🌟
+</div>
 
