@@ -71,7 +71,7 @@ $ make
 # Install the compiled Yosys binaries system-wide
 $ sudo make install
 
----
+'''
 
 ## 📷 **Installation Verification**
 
@@ -81,6 +81,7 @@ $ yosys
 
 # Verify license
 $ license
+'''
 
 <p align="center">
   <img src="<p align="center">
@@ -99,5 +100,4 @@ $ license
   ✅ **Yosys Successfully Installed**
 </div>
 
-```
 
