@@ -49,6 +49,7 @@ It explains the design methodology, verification steps, and the importance of mo
 
 ---
 
+
 ## 🔹 O4 — Final SoC  
 - Operates within **100 MHz – 130 MHz** range.  
 - Reusable SoC platform that can adapt to multiple end-user applications:  
@@ -59,10 +60,11 @@ It explains the design methodology, verification steps, and the importance of mo
 
 ---
 
+## FlowChart
 
 
 ## ✅ Key Takeaways  
-- **End-to-End Flow:** Specs → RTL → Synthesis → SoC Integration → Verification → Tapeout.  
+- **End-to-End Flow:** Specs → RTL → Synthesis → SoC Integration → Verification → TapeIn → Industry→ Tapeout → Chip.  
 - **Verification at every stage** ensures reliability and manufacturability.  
 - **Scalable modular design** enables targeting diverse real-world applications.  
 - The key outputs :
@@ -73,8 +75,6 @@ It explains the design methodology, verification steps, and the importance of mo
 - **O1 == O2 == O3 == O4**  
 
 ---
-
-
 
 ✍️ Prepared by: <br>
 ***RAGUL T — RISC-V SoC Tapeout (VSD)***
