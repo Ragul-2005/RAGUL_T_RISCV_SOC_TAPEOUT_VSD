@@ -289,6 +289,31 @@ $ make --version
   ✅ <b>OpenLANE Successfully Installed</b>
 </div>
 
+## 🎉 **Installation Summary**
+<div align="center">
+
+| Tool | Status | Primary Use |
+|------|--------|-------------|
+| 🧠 **Yosys** | ✅ Complete | RTL Synthesis |
+| 📟 **Iverilog** | ✅ Complete | Verilog Simulation |
+| 📊 **GTKWave** | ✅ Complete | Waveform Analysis |
+| ⚡ **NGSpice** | ✅ Complete | Circuit Simulation |
+| 🎨 **Magic VLSI** | ✅ Complete | Layout Design |
+| 🛠️ **Tool Versions** | ✅ Verified | Environment Check |
+
+### 🚀 **Environment Ready for VLSI Design Journey!**
+
+</div>
+
+---
+
+<div align="center">
+
+**📂 Repository:** [RAGUL_T_RISCV_SOC_TAPEOUT_VSD](https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD.git)
+**👨‍💻 Author:** [RAGUL T](https://github.com/Ragul-2005)  
+**📚 Program:** VLSI System Design (VSD)
+
+</div>
 
 
 
