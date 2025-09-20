@@ -247,7 +247,7 @@ $ magic
 ```
 
 <p align="center">
-  <img src="" 
+  <img src="https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD/blob/main/Week_0/Images/magic.png?raw=true" 
        alt="Magic VLSI Installed" width="1200"/>
 </p>
 
