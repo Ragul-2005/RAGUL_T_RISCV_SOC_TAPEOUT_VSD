@@ -207,13 +207,9 @@ $ ngspice
 <summary><b>Purpose:</b> Magic VLSI is an open-source VLSI layout tool widely used for IC design, design rule checking (DRC), and visualization. It allows designers to create, edit, and verify integrated circuit layouts efficiently.</summary>
 
 </details>
-
-
 ---
 
 ## ✅ **Magic VLSI Installation**
-
-
 
 ```bash
 # Install required dependencies
@@ -263,62 +259,25 @@ $ magic
 ## ✅ **OpenLANE Installation**
 
 ```bash
-# Update package lists to get the latest versions
 $ sudo apt-get update
-
-# Upgrade all installed packages to their latest versions
 $ sudo apt-get upgrade
-
-# Install required packages: compiler tools, Python3, pip, venv, make, and git
 $ sudo apt install -y build-essential python3 python3-venv python3-pip make git
-
-# Add Docker’s official GPG key for package verification
 $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-
-# Set up Docker’s stable repository for apt
 $ echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-
-# Update package lists again to include Docker repo
 $ sudo apt update
-
-# Install Docker Engine, CLI, and container runtime
 $ sudo apt install docker-ce docker-ce-cli containerd.io
-
-# Verify Docker installation by running the hello-world test container
 $ sudo docker run hello-world
-
-# Check if the 'docker' group exists
 $ grep docker /etc/group
-
-# Add your user (ragul) to the docker group to run Docker without sudo
 $ sudo usermod -aG docker ragul
-
-# Reboot the system to apply group changes
 $ sudo reboot
-
-# Activate new group membership without rebooting (optional step)
 $ newgrp docker
-
-# Verify Docker works without sudo
 $ docker run hello-world
-
-```
 ## 📷 **Installation Verification**
-
-```bash
-# Check Git version
+bash
 $ git --version
-
-# Check Docker version
 $ docker --version
-
-# Check Python3 version
 $ python3 --version
-
-# Check pip version
 $ python3 -m pip --version
-
-# Check make version
 $ make --version
 ```
 <p align="center">
