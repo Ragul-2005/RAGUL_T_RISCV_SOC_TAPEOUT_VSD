@@ -157,7 +157,7 @@ $ gtkwave
   ✅ <b>GTKWave Successfully Installed</b>
 </div>
 
-### 🧠 **4. NGSpice – Circuit Simulator**
+### 🧠 **4. NGSpice (Circuit Simulator)**
 
 <details>
 <summary><b>Purpose:</b> SNGSpice is an open-source circuit simulator based on SPICE that models and analyzes analog, digital, and mixed-signal circuits. It is widely used for testing circuit behavior, verifying designs, and studying waveforms before hardware implementation.</summary>
