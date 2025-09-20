@@ -190,10 +190,11 @@ $ sudo make install
 
 ```bash
 # Run NGPICE after installation
-$ gtkwave
+$ ngspice
 ```
 <p align="center">
-  <img src="" 
+  <img src="https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD/blob/main/Week_0/Images/ngspice.png?raw=true
+" 
        alt="NGSPICE Installed" width="600"/>
 </p>
 
@@ -201,6 +202,7 @@ $ gtkwave
   ✅ <b>NGSPICE Successfully Installed</b>
 </div>
 
+https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD/blob/main/Week_0/Images/ngspice.png?raw=true
 
 
 
