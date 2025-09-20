@@ -255,7 +255,7 @@ $ magic
   ✅ <b>Magic VLSI Successfully Installed</b>
 </div>
 
-### 5. OpenLANE (Physical Design Flow)
+### 6 Openlane physical design flow
 
 <details>
 <summary><b>Purpose:</b> OpenLANE is an open-source, automated physical design flow for digital ASICs, built around the SkyWater 130nm PDK. It covers the complete RTL-to-GDSII process, including synthesis, floorplanning, placement, routing, and signoff checks.</summary>
