@@ -21,7 +21,7 @@ Make sure your system is ready for synthesis, simulation, and layout by meeting 
 Click a tool name to jump to installation instructions 👇
 
 - [Yosys](#1-yosys-synthesis-tool)  
-- [Icarus Verilog (iverilog)](#2-icarus-verilog-simulator)  
+- [IVerilog (iverilog)](#2-i-verilog-simulator)  
 - [GTKWave](#3-gtkwave-waveform-viewer)  
 - [NGSpice](#4-ngspice-circuit-simulator)  
 - [Magic](#5-magic-vlsi-layout-tool)  
@@ -41,7 +41,6 @@ Click a tool name to jump to installation instructions 👇
 ## ✅ **Yosys Installation**
 
 ```bash
-# Day 0 - Tools Installation
 ## Yosys
 
 # Clone the Yosys repository from GitHub
@@ -91,5 +90,44 @@ $ license
 <div align="center">
   ✅ **Yosys Successfully Installed**
 </div>
+
+### 2. IVerilog (Simulator)
+
+<details>
+<summary><b>Purpose:</b> Iverilog is an open-source Verilog simulation and compilation tool. It allows you to compile Verilog code into executable simulations and run functional verification of your designs before synthesis.</summary>
+
+</details>
+
+## ✅ **IVerilog Installation**
+
+```bash
+## IVerilog
+
+# Update the package lists for upgrades and new package installations
+sudo apt-get update
+
+# Install IVerilog  for compiling and simulating Verilog code
+sudo apt-get install iverilog
+```
+## 📷 **Installation Verification**
+
+```bash
+# Run Iverilog after installation
+$ iverilog
+```
+
+<p align="center">
+    <img src="" 
+       alt="IVerilog Installed" width="600"/>
+</p>
+
+<div align="center">
+  ✅ **IVerilog Successfully Installed**
+</div>
+
+
+
+
+
 
 
