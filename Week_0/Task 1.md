@@ -34,6 +34,12 @@ It explains the design methodology, verification steps, and the importance of mo
 
 ## 🔹 O3 — SoC Integration  
 - Combines **Processor + Peripherals + IPs** into a complete SoC.  
+- All blocks are combined (Processor, IPs, Macros, Analog IPs).  
+- Integration also involves GPIOs and interconnects. 
+
+---
+
+## 🔹 Physical Design  
 - Involves physical design steps:  
   - 📐 Floorplanning  
   - 🕒 Clock Tree Synthesis (CTS)  
@@ -43,9 +49,10 @@ It explains the design methodology, verification steps, and the importance of mo
 
 ---
 
-## 🔹 Physical Verification  
+## 🔹 Physical Verification & Fabrication
 - ✅ **DRC (Design Rule Check):** Ensures layout follows foundry rules.  
 - ✅ **LVS (Layout vs Schematic):** Confirms physical layout matches RTL netlist.  
+- GDSII is sent for fabrication to produce the final chip. 
 
 ---
 
@@ -59,8 +66,6 @@ It explains the design methodology, verification steps, and the importance of mo
   - ❄️ AC Systems  
 
 ---
-
-## FlowChart
 
 
 ## ✅ Key Takeaways  
