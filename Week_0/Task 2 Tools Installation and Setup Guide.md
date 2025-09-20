@@ -1,4 +1,4 @@
-# ⚙️ SOC_TAPEOUT_VSD — ToolS Installation and Setup Guide
+# ⚙️ SOC_TAPEOUT_VSD — Tools Installation and Setup Guide
 
 ## 🖥️ **Before You Begin – System Checklist**  
 
