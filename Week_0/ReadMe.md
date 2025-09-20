@@ -5,7 +5,7 @@ This folder contains my completed work for **Week0** of the RISC-V SoC Tapeout P
 It covers two major tasks:  
 
 1. [Task 1 - Documentation of Digital VLSI SoC Design and Planning](./Task%201%20-%20Documentation%20of%20Digital%20VLSI%20SoC%20Design%20and%20Planning.md)
-2. [Task 2 - Tools Installation and Setup Guide](./Task%202%20-%20Tools%20Installation%20and%20Setup%20Guide.md)
+2. [Task 2 - Tools Installation and Setup Guide](./Task%202%20-Tools%20Installation%20and%20Setup%20Guide.md)
 
 ---
 
