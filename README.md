@@ -48,8 +48,8 @@ It provides:
 | ✅ Status | 📅 Week | 📂 Folder Link | 📖 Notes |
 |-----------|---------|----------------|----------|
 | ✅ Completed | Week 0 | [Week_0](./Week_0/) | Tools Instalation
-| ⏳ Pending   | Week 1 | [Week_1](./Week_1/) | ---
-| ⏳ Pending   | Week 2 | [Week_2](./Week_2/) | ---
+| ✅ Completed   | Week 1 | [Week_1](https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD_Week_1.git)| Digital Design Foundation
+| ✅ Completed  | Week 2 | [Week_2](https://github.com/Ragul-2005/RAGUL_T_RISCV_SOC_TAPEOUT_VSD_Week_2.git) | Fundamentals about BabySoc and functional modelling
 | ⏳ Pending   | Week 3 | [Week_3](./Week_3/) | ---
 | ⏳ Pending   | Week 4 | [Week_4](./Week_4/) | ---
 | ⏳ Pending   | Week 5 | [Week_5](./Week_5/) | ---
